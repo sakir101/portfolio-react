@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "title": "Old Mobile Zone",
+        "img": "https://user-images.githubusercontent.com/108428136/205109373-762d0229-e600-4c39-9242-909d5fea7a58.PNG",
+        "desc": "In this site buyer can buy phone, seller can sell phone and admin who can manage the overall site. To implement this site use React Js, MongodB, Firebase, Tailwind which is the best technologies. Here use site authentication and authorization."
+    },
+    {
+        "id": 2,
+        "title": "Online Cooking Studio",
+        "img": "https://user-images.githubusercontent.com/108428136/206842002-f30aa31b-0f59-47b0-89df-744edd390de7.PNG",
+        "desc": "In this site user can see different type cooking recipe. They can all add their recipe and comment on other recipe. But they need to create account first. Here used firebase authentication system for login signup."
+    },
+    {
+        "id": 3,
+        "title": "Online Programming School",
+        "img": "https://user-images.githubusercontent.com/108428136/205125438-91e75e9a-c04f-43ed-ae31-830ffb245937.jpg",
+        "desc": "This site is made for the person who wants to learn programming in online. Here an interest person can learn different types of language but they need to sign up first. If they have account they can use this site by login."
+    }
+]
