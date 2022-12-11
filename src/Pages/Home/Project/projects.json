@@ -7,6 +7,14 @@
     "img": "https://user-images.githubusercontent.com/108428136/205109373-762d0229-e600-4c39-9242-909d5fea7a58.PNG",
     "src1": "https://user-images.githubusercontent.com/108428136/205111402-d9a4c262-e841-456e-94ed-cacd18c22e33.png",
     "src2": "https://user-images.githubusercontent.com/108428136/205109851-b856d548-ec45-4c62-a963-dde6b17bc9b4.PNG",
+    "features": [
+        {"id": "11", "point": "A seller, buyer and and admin based dashboard project"},
+        {"id": "12", "point": "Payment stripe implement"},
+        {"id": "13", "point": "JWT Token implement"},
+        {"id": "14", "point": "In this site a user can signup as a buyer as a seller"},
+        {"id": "15", "point": "In this site a buyer can book product and payment through the website"},
+        {"id": "16", "point": "Buyer can also report a product"}
+    ],
     "desc": "In this site buyer can buy phone, seller can sell phone and admin who can manage the overall site. To implement this site use React Js, MongodB, Firebase, Tailwind which is the best technologies. Here use site authentication and authorization."
 },
 {
@@ -18,6 +26,14 @@
     "img": "https://user-images.githubusercontent.com/108428136/206842002-f30aa31b-0f59-47b0-89df-744edd390de7.PNG",
     "src1": "https://user-images.githubusercontent.com/108428136/205121501-28f8bc45-d61c-4506-a4d4-753df5aaed53.png",
     "src2": "https://i.ibb.co/rGRxRWB/food1.png",
+    "features": [
+        {"id": "21", "point": "Different route to go different pages"},
+        {"id": "22", "point": "Used mongodb database server to create, read, update and delete data"},
+        {"id": "23", "point": "Use sort data (review page) by time wise"},
+        {"id": "24", "point": "Users can easily this site without hassle"},
+        {"id": "25", "point": "Login users can add service"},
+        {"id": "26", "point": "After posting review they can update it or delete it from database"}
+    ],
     "desc": "In this site user can see different type cooking recipe. They can all add their recipe and comment on other recipe. But they need to create account first. Here used firebase authentication system for login signup."
 },
 {
@@ -29,6 +45,14 @@
     "img": "https://user-images.githubusercontent.com/108428136/205125438-91e75e9a-c04f-43ed-ae31-830ffb245937.jpg",
     "src1": "https://user-images.githubusercontent.com/108428136/205126615-3696d552-aa10-4fef-84ee-b576f2974f48.png",
     "src2": "https://i.ibb.co/4NVM78b/p-1.png",
+    "features": [
+        {"id": "31", "point": "This webpage developed on acknowledge people about programming languages such as C, C++, C sharp, Java, Php, Python"},
+        {"id": "32", "point": "Here we have different routes to visit webpage without hard loading"},
+        {"id": "33", "point": "Here we have our own server to recive and fetch data."},
+        {"id": "34", "point": "This webpage is hoghly professional and secured."},
+        {"id": "35", "point": "All the user login information is stored in firbase."},
+        {"id": "36", "point": "If user wants they can visit premium access of the courses but they have login first."}
+    ],
     "desc": "This site is made for the person who wants to learn programming in online. Here an interest person can learn different types of language but they need to sign up first. If they have account they can use this site by login."
 }
 ]
