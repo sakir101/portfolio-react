@@ -13,8 +13,8 @@ const About = () => {
                     <div className='w-full lg:w-1/2 mx-0 lg:mx-5'>
                         <h1 className="text-2xl font-bold text-center lg:text-left text-slate-400">Person love to create</h1>
                         <h1 className="text-3xl font-bold text-center lg:text-left">Modern Technology</h1>
-                        <p className="pt-6 pb-3 text-center lg:text-left">I like to call myself “a professional computer science student & Web developer”.</p>
-                        <p className="pb-6 text-center lg:text-left">I made lot of creative activites. My first priority is to understand anything from heart. So that I can use that thing in future practically.</p>
+                        <p className="pt-6 pb-3 text-center lg:text-left">I like to call myself “a professional computer science student & Web developer”. As a computer science student I have good knowledge in various programming language such as C, Java, Python, Data structure etc. But my core skill in web developing.</p>
+                        <p className="pb-6 text-center lg:text-left">I made lot of creative activities. My first priority is to understand anything from heart. So that I can use that thing in future practically. I love to create new things or technology by properly using my skill. As a CSE student I created some technologies by the help programming language.</p>
                     </div>
                 </div>
             </div>
