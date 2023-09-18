@@ -1,0 +1,45 @@
+[
+    {
+        "id": "1",
+        "title": "Typescript",
+        "img": "https://cdn-icons-png.flaticon.com/512/919/919832.png",
+        "desc": "Professional typescript developer",
+        "rating": "4/5"
+    },
+    {
+        "id": "2",
+        "title": "Next JS",
+        "img": "https://www.rlogical.com/wp-content/uploads/2023/03/Rlogical-Blog-Images-thumbnail.webp",
+        "desc": "Next JS Ninja",
+        "rating": "4/5"
+    },
+    {
+        "id": "3",
+        "title": "Mongoose Hero",
+        "img": "https://i.pinimg.com/originals/93/38/93/933893e37624e42e10ff597b09b11f83.png",
+        "desc": "Super Power in Mongoose",
+        "rating": "5/5"
+    },
+    {
+        "id": "4",
+        "title": "SQL",
+        "img": "https://ww1.freelogovectors.net/wp-content/uploads/2022/03/azure_sql_database_logo_freelogovectors.net_.png",
+        "desc": "Master in SQL",
+        "rating": "5/5"
+    },
+    {
+        "id": "5",
+        "title": "React",
+        "img": "https://e7.pngegg.com/pngimages/791/922/png-clipart-react-javascript-library-redux-user-interface-tesseract-logo-symmetry.png",
+        "desc": "Also a React Guru",
+        "rating": "5/5"
+    },
+    {
+        "id": "6",
+        "title": "Redux",
+        "img": "https://cdn.iconscout.com/icon/free/png-256/free-redux-3772327-3151453.png?f=webp",
+        "desc": "A Redux Reaper",
+        "rating": "5/5"
+    }
+
+]

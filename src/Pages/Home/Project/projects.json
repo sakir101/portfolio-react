@@ -38,21 +38,21 @@
 },
 {
     "id": "3",
-    "title": "Online Programming School",
-    "site": "https://p-skool.web.app/",
-    "client": "https://github.com/sakir101/promming-school-online",
-    "server": "https://github.com/sakir101/programming-school-online-server",
-    "img": "https://user-images.githubusercontent.com/108428136/205125438-91e75e9a-c04f-43ed-ae31-830ffb245937.jpg",
-    "src1": "https://user-images.githubusercontent.com/108428136/205126615-3696d552-aa10-4fef-84ee-b576f2974f48.png",
-    "src2": "https://i.ibb.co/4NVM78b/p-1.png",
+    "title": "Hongkong Book Stall",
+    "site": "https://hongkong-book-store.web.app/",
+    "client": "https://github.com/sakir101/hongkong-book-stall",
+    "server": "https://hongkong-book-stall-server.vercel.app/",
+    "img": "https://user-images.githubusercontent.com/108428136/268572437-b971e7d8-b2b6-4a3f-b382-4998e5021f7e.png",
+    "src1": "https://user-images.githubusercontent.com/108428136/268576585-a392ea64-34f7-4a4c-9b11-df8c252c2c2a.png",
+    "src2": "https://user-images.githubusercontent.com/108428136/268573352-d4e515c7-d560-4028-876c-64a3a5d40581.png",
     "features": [
-        {"id": "31", "point": "This webpage developed on acknowledge people about programming languages such as C, C++, C sharp, Java, Php, Python"},
-        {"id": "32", "point": "Here we have different routes to visit webpage without hard loading"},
-        {"id": "33", "point": "Here we have our own server to recive and fetch data."},
-        {"id": "34", "point": "This webpage is hoghly professional and secured."},
-        {"id": "35", "point": "All the user login information is stored in firbase."},
-        {"id": "36", "point": "If user wants they can visit premium access of the courses but they have login first."}
+        {"id": "31", "point": "This webpage developed for those persons who love to collect, read and publish books"},
+        {"id": "32", "point": "This site is create by typescript"},
+        {"id": "33", "point": "In backend mongoose is used for all kind of servers' operations"},
+        {"id": "34", "point": "This webpage is secured by JWT token"},
+        {"id": "35", "point": "User login information manually handled"},
+        {"id": "36", "point": "To visit different routes user needs to login first"}
     ],
-    "desc": "This site is made for the person who wants to learn programming in online. Here an interest person can learn different types of language but they need to sign up first. If they have account they can use this site by login."
+    "desc": "This webpage is made for the person who loves to read books. In this site they can see all categories books such as romance, thriller, comedy, adventure etc. Here is user authentication system is applied. Fo safely login and sign-up JWT token is used."
 }
 ]
